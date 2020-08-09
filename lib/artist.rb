@@ -7,7 +7,6 @@ class Artist
  
 end
  
- name = Artist. new
 
 
  
