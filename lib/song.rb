@@ -1,6 +1,3 @@
 class Song
-  def initialize(title, artist)
-    @title    = title
-    @artist   = artist
-  end
+ attr_accessor
 end
