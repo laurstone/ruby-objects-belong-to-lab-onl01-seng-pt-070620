@@ -7,7 +7,7 @@ class Artist
  
 end
  
- name = Artist.new
+ name = Artist. new
 
 
  
